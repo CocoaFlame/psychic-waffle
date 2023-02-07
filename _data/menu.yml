@@ -42,3 +42,5 @@ entries:
     url: GvSI
   - title: test post url
     url: strange-post
+  - title: <p><a href="https://ncase.me/faq/#GoodMentalHealth">:This example</a> links to <code>https://ncase.me/faq/#GoodMentalHealth</code></p>
+
