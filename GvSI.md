@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page
+title: GvSI
 ---
 
 ## To write a section,
