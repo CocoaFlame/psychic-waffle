@@ -38,4 +38,5 @@
 #      - title: to edit this menu, edit _data/menu.yml file
 
 entries:
-  - title: info
+  - title: glaciers versus sea ice nutshell
+    url: GvSI
