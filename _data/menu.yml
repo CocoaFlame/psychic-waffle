@@ -1,6 +1,16 @@
 # For documentation on this file, see:
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
+entries:
+  - title: glaciers versus sea ice nutshell
+    url: GvSI
+# example of adding a post
+#  - title: test post url
+#    url: strange-post
+# example of nutshell HTML (since the main page is HTML instead of markdown)
+#  - title: <p><a href="https://ncase.me/faq/#GoodMentalHealth">:This example</a> links to <code>https://ncase.me/faq/#GoodMentalHealth</code></p>
+
+# template example
 #entries:
 #  - title: info
 #    entries:
@@ -36,11 +46,3 @@
 #  - title: PRO TIP
 #    entries:
 #      - title: to edit this menu, edit _data/menu.yml file
-
-entries:
-  - title: glaciers versus sea ice nutshell
-    url: GvSI
-  - title: test post url
-    url: strange-post
-  - title: <p><a href="https://ncase.me/faq/#GoodMentalHealth">:This example</a> links to <code>https://ncase.me/faq/#GoodMentalHealth</code></p>
-
