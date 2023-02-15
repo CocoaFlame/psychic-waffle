@@ -4,27 +4,10 @@ title: Glaciers versus Sea Ice
 permalink: GvSI
 ---
 
-[:Glaciers](#Glacier)
+[:Glaciers](pages/glossary#Glacier)
 
 versus
 
-[:Sea Ice](#SeaIce)
+[:Sea Ice](pages/glossary#SeaIce)
 
-[:Hidden](#hidden)
-
-Extra text
-
-[:Trying to get nutshells to work..](#test)
-
-# Test
-Hate 'em
-
-## Glossary
-## Glacier
-Large masses of ice formed wherever accumulation exceeds ablation
-
-### Sea Ice
-Ice above a body of water formed by freezing the water
-
-## :x Hidden
-Testing out hidden sections
+[Test](pages/glossary#Test)
