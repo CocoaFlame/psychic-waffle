@@ -1,9 +1,11 @@
 # For documentation on this file, see:
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
-entries:
-  - title: glaciers versus sea ice nutshell
-    url: pages/GvSI
+# moved to index.md
+#entries:
+#  - title: glaciers versus sea ice nutshell
+#    url: pages/GvSI
+
 # example of adding a post
 #  - title: test post url
 #    url: strange-post

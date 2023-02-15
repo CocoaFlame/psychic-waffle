@@ -2,4 +2,4 @@
 layout: home
 ---
 
-- [Glaciers versus Sea Ice nutshell](GvSI)
+- [Glaciers versus Sea Ice nutshell](pages/GvSI)
