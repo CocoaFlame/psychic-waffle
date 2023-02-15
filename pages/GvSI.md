@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Glaciers versus Sea Ice
+permalink: GvSI
 ---
 
 [:Glaciers](#Glacier)
