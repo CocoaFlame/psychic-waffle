@@ -11,6 +11,13 @@ versus
 
 [:Hidden](#hidden)
 
+Extra text
+
+[:Trying to get nutshells to work..](#test)
+
+# Test
+Hate 'em
+
 ## Glossary
 #### Glacier
 Large masses of ice formed wherever accumulation exceeds ablation
