@@ -8,7 +8,7 @@ permalink: GvSI
 
 versus
 
-[:Sea Ice](https://cocoaflame.github.io/psychic-waffle/pages/GvSI#SeaIce)
+[:Sea Ice](#SeaIce)
 
 [:Hidden](#hidden)
 
