@@ -2,6 +2,6 @@
 layout: home
 ---
 
-- [Glaciers versus Sea Ice Nutshell](pages/GvSI)
-- [Glossary](pages/glossary)
-- [Credits](pages/credits)
+- [Glaciers versus Sea Ice Nutshell](GvSI)
+- [Glossary](glossary)
+- [Credits](credits)

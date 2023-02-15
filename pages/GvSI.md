@@ -4,8 +4,10 @@ title: Glaciers versus Sea Ice
 permalink: GvSI
 ---
 
-Glaciers
+[:Glaciers](glossary#glacier)
 
 versus
 
-Sea Ice
+[:Sea Ice](glossary#seaice)
+
+[:Test](glossary#test)
