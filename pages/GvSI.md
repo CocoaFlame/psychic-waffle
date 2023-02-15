@@ -1,13 +1,11 @@
 ---
-layout: page
+layout: nutshell-page
 title: Glaciers versus Sea Ice
 permalink: GvSI
 ---
 
-[:Glaciers](pages/glossary#Glacier)
+Glaciers
 
 versus
 
-[:Sea Ice](pages/glossary#SeaIce)
-
-[Test](pages/glossary#Test)
+Sea Ice
