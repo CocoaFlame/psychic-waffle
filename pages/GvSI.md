@@ -5,13 +5,13 @@ permalink: GvSI
 ---
 # Start
 
-[:Glaciers](#glacier)
+[:Glaciers](#glac)
 
 versus
 
-[:Sea Ice](#seaice)
+[:Sea Ice](#SI)
 
-[:Test](#glacier)
+[:Test](#glac)
 
 [:Glaciers](#test)
 
@@ -24,11 +24,11 @@ The combined set of processes that increase the mass of a glacier. This is typic
 ## :x Ablation
 The combined set of processes that decrease the mass of a glacier. This includes melting and runoff, calving, and sublimation.
 
-## :x Sea Ice
+## :x SI
 Ice above a body of water formed by freezing the water
 
 ## :x Test
 to make sure we're all good
 
-## :x Glacier
+## :x Glac
 A large mass of ice formed when two conditions are met
