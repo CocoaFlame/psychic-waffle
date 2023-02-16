@@ -24,11 +24,11 @@ The combined set of processes that increase the mass of a glacier. This is typic
 ## Ablation
 The combined set of processes that decrease the mass of a glacier. This includes melting and runoff, calving, and sublimation.
 
-## Glacier
-A large mass of ice formed when two conditions are met
-
 ## Sea Ice
 Ice above a body of water formed by freezing the water
 
 ## Test
 to make sure we're all good
+
+## Glacier
+A large mass of ice formed when two conditions are met
