@@ -31,3 +31,6 @@ Ice above a body of water formed by freezing the water
 
 ## Test
 to make sure we're all good
+
+## Glacier
+Dup: A large mass of ice formed when two conditions are met
