@@ -5,13 +5,13 @@ permalink: GvSI
 ---
 # Start
 
-[:Glaciers](#glac)
+[:Glaciers](#glossary)
 
 versus
 
 [:Sea Ice](#SI)
 
-[:Test](#Glac)
+[:Test](#why)
 
 [:Glaciers](#test)
 
@@ -30,5 +30,5 @@ Ice above a body of water formed by freezing the water
 ## :x Test
 to make sure we're all good
 
-## :x Glac
+## :x Why
 A large mass of ice formed when two conditions are met
