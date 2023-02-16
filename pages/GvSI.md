@@ -11,9 +11,9 @@ versus
 
 [:Sea Ice](#seaice)
 
-[:Test](#test)
+[:Test](#glacier)
 
-[:Glaciers](#glacier)
+[:Glaciers](#test)
 
 # Glossary
 Alphabetical definitions used in Nutshells above.
@@ -32,6 +32,3 @@ Ice above a body of water formed by freezing the water
 
 ## Test
 to make sure we're all good
-
-## Glacier
-Dup: A large mass of ice formed when two conditions are met
