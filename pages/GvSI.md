@@ -11,7 +11,7 @@ versus
 
 [:Sea Ice](#SI)
 
-[:Test](#glac)
+[:Test](#Glac)
 
 [:Glaciers](#test)
 
