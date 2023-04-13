@@ -1,6 +1,8 @@
 ---
 layout: home
 ---
-
-- [Glaciers versus Sea Ice Nutshell](GvSI)
+- [About](about)
 - [Site Credits](credits)
+## Canadian Context
+## Thought Train
+- [Glaciers versus Sea Ice Nutshell](GvSI)
