@@ -8,24 +8,24 @@ I recently had to do a quiz where one of the questions was indirectly asking abo
 
 ---
 
-[:Glaciers](#glac)
+[:Glaciers](#glossary)
 
 versus
 
 [:Sea Ice](#SI)
 
 
-# :x glac
+# :x glossary
 A large mass of ice formed under two conditions:
 1. Ice mass has a positive [:mass balance](#massbalance)
 2. Ice mass [:moves](#glaciermotion) under its own weight
 
 The first condition is one of climate and weather where the ice mass is located. For an ice mass to naturally form and persist between years, the [:accumulation](#accumulation) over winter should be larger than the [:ablation](#ablation) over summer. The second condition is about the size of the ice mass. A large ice mass which experiences a large enough [:gravitational force](#gravity) can begin to [:move in two distinct ways](#glaciermotion).
 
-## :x Accumulation
+## :x accumulation
 The combined set of processes that increase the mass of a glacier. This is typically and mainly from snowfall, followed by the slow process of snow being compressed into ice.
 
-## :x Ablation
+## :x ablation
 The combined set of processes that decrease the mass of a glacier. This includes melting and runoff, calving, and sublimation.
 
 ## :x mass balance
@@ -69,4 +69,7 @@ A phase transition is the physical change of matter between [:states](#mattersta
 The basic states of matter are solid, liquid, gas, and plasma. They correspond to specific ranges of temperature and pressure unique to a substance, which is commonly portrayed via a [:phase diagram](#phasediagram).
 
 ## :x phase diagram
+
+
+## :x phase boundary
 
