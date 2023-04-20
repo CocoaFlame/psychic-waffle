@@ -14,6 +14,7 @@ versus
 
 [:Sea Ice](#SI)
 
+
 ![Nàłùdäy (Lowell Glacier), 2021](/assets/Nàłùdäy.JPG)
 
 # :x glossary
