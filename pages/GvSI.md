@@ -20,19 +20,25 @@ A large mass of ice formed under two conditions:
 1. Ice mass has a positive [:mass balance](#massbalance)
 2. Ice mass [:moves](#glaciermotion) under its own weight
 
-The first condition is one of climate and weather where the ice mass is located. For an ice mass to naturally form and persist between years, the [:accumulation](#accumulation) over winter should be larger than the [:ablation](#ablation) over summer. The second condition is about the size of the ice mass. A large ice mass which experiences a large enough [:gravitational force](#gravity) can begin to [:move in two distinct ways](#glaciermotion).
+The first condition is one of climate and weather where the ice mass is located. The second condition is about the size of the ice mass.
+
+![Nàłùdäy (Lowell Glacier), 2021](/assets/Nàłùdäy.JPG)
 
 ## :x accumulation
 The combined set of processes that increase the mass of a glacier. This is typically and mainly from snowfall, followed by the slow process of snow being compressed into ice.
 
 ## :x ablation
-The combined set of processes that decrease the mass of a glacier. This includes melting and runoff, calving, and sublimation.
+The combined set of processes that decrease the mass of a glacier. This includes [:melting](#melting) and runoff, calving, and sublimation.
 
 ## :x mass balance
 The mass balance of a glacier is a calculation that computes the net change in mass of a glacier using net [:accumulation](#accumulation) and net [:ablation](#ablation).
 
+A positive mass balance means the [:accumulation](#accumulation) over winter is larger than the [:ablation](#ablation) over summer. This is required for an ice mass to naturally form and persist between years.
+
 ## :x glacier motion
-As an ice mass grows in size, the force of gravity on it also increases which can lead to movement in two distinct ways. The first type of movement is [:basal](#glacierbed) sliding when [:gravity](#gravity) is large enough to overcome underlying friction, which can be assisted with [:lubrication by melted ice](#subglacial). The second type of movement is internal deformation, since ice is a [:viscoelastic](https://en.wikipedia.org/wiki/Viscoelasticity) material and can behave like a viscous fluid under large enough internal forces due to gravity.
+As an ice mass grows in size, the [:force of gravity](#gravity) on it also increases which can lead to movement in two distinct ways:
+1. [:Basal](#glacierbed) sliding down a slope can occur when [:gravity](#gravity) is large enough to overcome underlying friction, which can also be affected by [:lubrication by melted ice](#subglacial)
+2. Internal deformation can occur when [:gravity](#gravity) creates large enough internal forces allowing the glacier to behave like a viscous fluid, since ice is a [:viscoelastic](https://en.wikipedia.org/wiki/Viscoelasticity) material
 
 ## :x glacier bed
 The base or bed of a glacier is the bottom of the ice, where it interacts with the ground beneath.
@@ -54,9 +60,9 @@ Gravity is one of the [:four fundamental forces](https://en.wikipedia.org/wiki/F
 
 
 ## :x SI
-Sea ice is the ice formed by [:freezing](#freezing) seawater. It floats on top of seawater as ice is less dense than water. It is started by the atmosphere being cold enough to cool the surface seawater below its freezing point. This is followed by small ice crystals forming to reach [:grease ice](https://en.wikipedia.org/wiki/Grease_ice), which under rough conditions may start clumping together to form [:pancake ice](https://en.wikipedia.org/wiki/Pancake_ice), and eventually one solid, connected layer.
+Sea ice is the ice formed by [:freezing](#freezing) seawater. It floats on top of seawater as ice is less dense than water. It is started by the atmosphere being cold enough to cool the seawater surface below its freezing point. This is followed by small ice crystals forming to reach [:grease ice](https://en.wikipedia.org/wiki/Grease_ice), which under rough conditions may start clumping together to form [:pancake ice](https://en.wikipedia.org/wiki/Pancake_ice), and eventually one solid, connected layer. Further freezing increases the thickness of the sea ice, growing from the bottom downwards.
 
-Sea ice is typically classified between first year ice, which has formed within the current season, and old ice, which has formed in a previous winter season and has survived at least one summer season. This is because old ice can be much thicker than first year ice, increasing its [:flexural strength](https://en.wikipedia.org/wiki/Flexural_strength).
+Sea ice is typically classified between first year ice, which has formed within the current season, and old ice, which has formed in a previous winter season and has survived at least one summer season. This classification is important because old ice starts the winter season already formed and has a head start in growth, so can be much thicker than first year ice. The thickness is then directly related to sea ice's [:flexural strength](https://en.wikipedia.org/wiki/Flexural_strength), load bearing capacity, and impact on offshore structures.
 
 ## :x freezing
 Freezing is a [:phase transition](#phasetransition) when a liquid becomes solid. The opposite is [:melting](#melting).
@@ -68,10 +74,10 @@ Melting is a [:phase transition](#phasetransition) when a solid becomes liquid T
 A phase transition is the physical change of matter between [:states](#matterstate). A typical phase transition occurs when a substance reaches a temperature and pressure that corresponds to a [:phase boundary](#phaseboundary). Any additional energy change in the substance will go into a [:latent heat](https://en.wikipedia.org/wiki/Latent_heat) instead of changing temperature or pressure, until the phase transition is complete.
 
 ## :x matter state
-The basic states of matter are solid, liquid, gas, and plasma. They correspond to specific ranges of temperature and pressure unique to a substance, which is commonly portrayed via a [:phase diagram](#phasediagram).
+The basic states of matter are solid, liquid, gas, and plasma. For a specific substance, each state corresponds to an independent range of temperature and pressure, which is commonly portrayed via a [:phase diagram](#phasediagram).
 
 ## :x phase diagram
-
+A phase diagram of a substance is a plot of pressure versus temperature with regions that correspond to [:states](#matterstate) the substance can be in. The regions show all the combinations of temperature and pressure for the substance to remain in the corresponding [:state](#matterstate). The edges of the regions correspond to [:phase boundaries](#phaseboundary).
 
 ## :x phase boundary
-
+A phase boundary of a substance is the limit of temperature and pressure where a [:phase transition](#phasetransition) will start occuring. 
