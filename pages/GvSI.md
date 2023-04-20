@@ -32,21 +32,21 @@ The combined set of processes that decrease the mass of a glacier. This includes
 The mass balance of a glacier is a calculation that computes the net change in mass of a glacier using net [:accumulation](#accumulation) and net [:ablation](#ablation).
 
 ## :x glacier motion
-As an ice mass grows in size, the force of gravity on it also increases which can lead to movement in two distinct ways. The first type of movement is [:basal](#glacierbed) sliding when [:gravity](#gravity) is large enough to overcome underlying friction, which can be assisted with [:lubrication by melted ice](#subglacialhydrology). The second type of movement is internal deformation, since ice is a [:viscoelastic](https://en.wikipedia.org/wiki/Viscoelasticity) material and can behave like a viscous fluid under large enough internal forces due to gravity.
+As an ice mass grows in size, the force of gravity on it also increases which can lead to movement in two distinct ways. The first type of movement is [:basal](#glacierbed) sliding when [:gravity](#gravity) is large enough to overcome underlying friction, which can be assisted with [:lubrication by melted ice](#subglacial). The second type of movement is internal deformation, since ice is a [:viscoelastic](https://en.wikipedia.org/wiki/Viscoelasticity) material and can behave like a viscous fluid under large enough internal forces due to gravity.
 
 ## :x glacier bed
 The base or bed of a glacier is the bottom of the ice, where it interacts with the ground beneath.
 
 ## :x glacial hydrology
-Glacial hydrology is the study of how water flows through glaciers. It can be broken down into how water moves between three distinct parts of a glacier. From the top to the bottom of a glacier, they are: [:supraglacial hydrology](#supraglacialhydrology), [:englacial hydrology](#englacialhydrology), and [:subglacial hydrology](#subglacialhydrology).
+Glacial hydrology is the study of how water flows through glaciers. It can be broken down into how water moves between three distinct parts of a glacier. From the top to the bottom of a glacier, they are: [:supraglacial hydrology](#supraglacial), [:englacial hydrology](#englacial), and [:subglacial hydrology](#subglacial).
 
-## :x supraglacial hydrology
+## :x supraglacial
 Supraglacial hydrology is all the processes that affect how water moves above a glacier. It is one part of the three-way breakdown of [:glacial hydrology](#glacialhydrology).
 
-## :x englacial hydrology
+## :x englacial
 Englacial hydrology is all the processes that affect how water moves inside a glacier. It is one part of the three-way breakdown of [:glacial hydrology](#glacialhydrology).
 
-## :x subglacial hydrology
+## :x subglacial
 Subglacial hydrology is all the processes that affect how water moves [:beneath a glacier](#glacierbed). It is one part of the three-way breakdown of [:glacial hydrology](#glacialhydrology).
 
 ## :x gravity
