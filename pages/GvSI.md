@@ -32,10 +32,13 @@ The combined set of processes that decrease the mass of a glacier. This includes
 The mass balance of a glacier is a calculation that computes the net change in mass of a glacier using net [:accumulation](#accumulation) and net [:ablation](#ablation).
 
 ## :x glacier motion
-As an ice mass grows in size, the force of gravity on it also increases which can lead to movement in two distinct ways. The first type of movement is [:basal](#glacierbed) sliding when gravity is large enough to overcome underlying friction, which can be assisted with [:lubrication by melted ice](#subglacialhydrology). The second type of movement is internal deformation, since ice is a [:viscoelastic](https://en.wikipedia.org/wiki/Viscoelasticity) material and can behave like a viscous fluid under large enough internal forces due to gravity.
+As an ice mass grows in size, the force of gravity on it also increases which can lead to movement in two distinct ways. The first type of movement is [:basal](#glacierbed) sliding when [:gravity](#gravity) is large enough to overcome underlying friction, which can be assisted with [:lubrication by melted ice](#subglacialhydrology). The second type of movement is internal deformation, since ice is a [:viscoelastic](https://en.wikipedia.org/wiki/Viscoelasticity) material and can behave like a viscous fluid under large enough internal forces due to gravity.
 
 ## :x glacier bed
 The base or bed of a glacier is the bottom of the ice, where it interacts with the ground beneath.
+
+## :x glacial hydrology
+Glacial hydrology is the study of how water flows through glaciers. It can be broken down into how water moves between three distinct parts of a glacier. From the top to the bottom of a glacier, they are: [:supraglacial hydrology](#supraglacialhydrology), [:englacial hydrology](#englacialhydrology), and [:subglacial hydrology](#subglacialhydrology).
 
 ## :x supraglacial hydrology
 Supraglacial hydrology is all the processes that affect how water moves above a glacier. It is one part of the three-way breakdown of [:glacial hydrology](#glacialhydrology).
@@ -46,15 +49,14 @@ Englacial hydrology is all the processes that affect how water moves inside a gl
 ## :x subglacial hydrology
 Subglacial hydrology is all the processes that affect how water moves [:beneath a glacier](#glacierbed). It is one part of the three-way breakdown of [:glacial hydrology](#glacialhydrology).
 
-## :x glacial hydrology
-Glacial hydrology is the study of how water flows through glaciers. It can be broken down into how water moves between three distinct parts of a glacier. From the top to the bottom of a glacier, they are: [:supraglacial hydrology](#supraglacialhydrology), [:englacial hydrology](#englacialhydrology), and [:subglacial hydrology](#subglacialhydrology).
-
 ## :x gravity
 Gravity is one of the [:four fundamental forces](https://en.wikipedia.org/wiki/Fundamental_interaction#Overview_of_the_fundamental_interactions) of the universe. It is the attraction between all objects which is proportional to the mass of both objects and the distance between them.
 
 
 ## :x SI
-Sea ice is the ice above a body of water formed by [:freezing](#freezing).
+Sea ice is the ice formed by [:freezing](#freezing) seawater. It floats on top of seawater as ice is less dense than water. It is started by the atmosphere being cold enough to cool the surface seawater below its freezing point. This is followed by small ice crystals forming to reach [:grease ice](https://en.wikipedia.org/wiki/Grease_ice), which under rough conditions may start clumping together to form [:pancake ice](https://en.wikipedia.org/wiki/Pancake_ice), and eventually one solid, connected layer.
+
+Sea ice is typically classified between first year ice, which has formed within the current season, and old ice, which has formed in a previous winter season and has survived at least one summer season. This is because old ice can be much thicker than first year ice, increasing its [:flexural strength](https://en.wikipedia.org/wiki/Flexural_strength).
 
 ## :x freezing
 Freezing is a [:phase transition](#phasetransition) when a liquid becomes solid. The opposite is [:melting](#melting).
