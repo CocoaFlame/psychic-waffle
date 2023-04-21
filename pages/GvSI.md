@@ -15,7 +15,7 @@ versus
 [:Sea Ice](#SI)
 
 
-![Nàłùdäy (Lowell Glacier), 2021](../images/Nàłùdäy.JPG)
+![Nàłùdäy (Lowell Glacier), 2021](/images/Naluday.JPG)
 
 # :x glossary
 A large mass of ice formed under two conditions:
