@@ -14,6 +14,8 @@ versus
 
 [:Sea Ice](#SI)
 
+
+
 # :x glossary
 A large mass of ice formed under two conditions:
 1. Ice mass has a positive [:mass balance](#massbalance)
@@ -58,8 +60,9 @@ Subglacial hydrology is all the processes that affect how water moves [:beneath 
 Gravity is one of the [:four fundamental forces](https://en.wikipedia.org/wiki/Fundamental_interaction#Overview_of_the_fundamental_interactions) of the universe. It is the attraction between all objects which is proportional to the mass of both objects and the distance between them.
 
 
+
 ## :x SI
-Sea ice is the ice formed by [:freezing](#freezing) seawater. It floats on top of seawater as ice is less dense than water. It is started by the atmosphere being cold enough to cool the seawater surface below its freezing point. This is followed by small ice crystals forming to reach [:grease ice](https://en.wikipedia.org/wiki/Grease_ice), which under rough conditions may start clumping together to form [:pancake ice](https://en.wikipedia.org/wiki/Pancake_ice), and eventually one solid, connected layer. Further freezing increases the thickness of the sea ice, growing from the bottom downwards.
+Sea ice is the ice formed by [:freezing](#freezing) seawater. It floats on top of seawater as [:ice is less dense than water](#icedensity). It is started by the atmosphere being cold enough to cool the seawater surface below its freezing point. This is followed by small ice crystals forming to reach [:grease ice](https://en.wikipedia.org/wiki/Grease_ice), which under rough conditions may start clumping together to form [:pancake ice](https://en.wikipedia.org/wiki/Pancake_ice), and eventually one solid, connected layer. Further freezing increases the thickness of the sea ice, growing from the bottom downwards.
 
 Sea ice is typically classified between first year ice, which has formed within the current season, and old ice, which has formed in a previous winter season and has survived at least one summer season. This classification is important because old ice starts the winter season already formed and has a head start in growth, so can be much thicker than first year ice. The thickness is then directly related to sea ice's [:flexural strength](https://en.wikipedia.org/wiki/Flexural_strength), load bearing capacity, and impact on offshore structures.
 
@@ -79,4 +82,8 @@ The basic states of matter are solid, liquid, gas, and plasma. For a specific su
 A phase diagram of a substance is a plot of pressure versus temperature with regions that correspond to [:states](#matterstate) the substance can be in. The regions show all the combinations of temperature and pressure for the substance to remain in the corresponding [:state](#matterstate). The edges of the regions correspond to [:phase boundaries](#phaseboundary).
 
 ## :x phase boundary
-A phase boundary of a substance is the limit of temperature and pressure where a [:phase transition](#phasetransition) will start occuring. 
+A phase boundary of a substance is the limit of temperature and pressure where a [:phase transition](#phasetransition) will start occuring. A triple point is a unique phase boundary where three [:states](#matterstate) can coexist simultaneously.
+
+## :x ice density
+Unusually for a substance, ice (solid) is less dense than water (liquid). This is due to the [:close arrangement](https://en.wikipedia.org/wiki/Hydrogen_bond) of free flowing liquid water molecules compared to the more open [:packed arrangement of water molecules](https://en.wikipedia.org/wiki/Ice_Ih) in a solid [:lattice](https://en.wikipedia.org/wiki/Crystal_structure). This means that the ice-water [:phase boundary](#phaseboundary) has a negative slope, meaning at a fixed temperature, you can melt ice by increasing its pressure.
+
