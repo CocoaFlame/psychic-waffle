@@ -15,7 +15,7 @@ versus
 [:Sea Ice](#SI)
 
 
-![Nàłùdäy (Lowell Glacier), 2021](/psychic-waffle/images/Naluday.JPG)
+![Nàłùdäy (Lowell Glacier), 2021](/psychic-waffle/images/Nàłùdäy.jpg)
 
 # :x glossary
 A large mass of ice formed under two conditions:
@@ -23,8 +23,6 @@ A large mass of ice formed under two conditions:
 2. Ice mass [:moves](#glaciermotion) under its own weight
 
 The first condition is one of climate and weather where the ice mass is located. The second condition is about the size of the ice mass.
-
-![Nàłùdäy (Lowell Glacier), 2021](/psychic-waffle/images/Nàłùdäy.JPG)
 
 ## :x accumulation
 The combined set of processes that increase the mass of a glacier. This is typically and mainly from snowfall, followed by the slow process of snow being compressed into ice.
