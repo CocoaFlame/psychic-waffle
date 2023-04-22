@@ -27,7 +27,7 @@ The first condition is one of climate and weather where the ice mass is located.
 Nàłùdäy (Lowell Glacier), 2021
 
 ## :x accumulation
-The combined set of processes that increase the mass of a glacier. This is typically and mainly from snowfall, followed by the slow process of snow being compressed into ice.
+The combined set of processes that increases the mass of a glacier. This is typically mainly from snowfall, followed by the slow process of [:snow being compressed into ice](https://en.wikipedia.org/wiki/Firn).
 
 ## :x ablation
 The combined set of processes that decrease the mass of a glacier. This includes [:melting](#melting) and runoff, calving, and sublimation.
@@ -43,7 +43,7 @@ As an ice mass grows in size, the [:force of gravity](#gravity) on it also incre
 2. Internal deformation can occur when [:gravity](#gravity) creates large enough internal forces allowing the glacier to behave like a viscous fluid, since ice is a [:viscoelastic](https://en.wikipedia.org/wiki/Viscoelasticity) material
 
 ## :x glacier bed
-The base or bed of a glacier is the bottom of the ice, where it interacts with the ground beneath.
+The base or bed of a glacier is the bottom of the ice, where it [:interacts with the ground beneath](https://en.wikipedia.org/wiki/U-shaped_valley).
 
 ## :x glacial hydrology
 Glacial hydrology is the study of how water flows through glaciers. It can be broken down into how water moves between three distinct parts of a glacier. From the top to the bottom of a glacier, they are: [:supraglacial hydrology](#supraglacial), [:englacial hydrology](#englacial), and [:subglacial hydrology](#subglacial).
@@ -63,7 +63,7 @@ Gravity is one of the [:four fundamental forces](https://en.wikipedia.org/wiki/F
 
 
 ## :x SI
-Sea ice is the ice formed by [:freezing](#freezing) seawater. It floats on top of seawater as [:ice is less dense than water](#icedensity). It is started by the atmosphere being cold enough to cool the seawater surface below its freezing point. This is followed by small ice crystals forming to reach [:grease ice](https://en.wikipedia.org/wiki/Grease_ice), which under rough conditions may start clumping together to form [:pancake ice](https://en.wikipedia.org/wiki/Pancake_ice), and eventually one solid, connected layer. Further freezing increases the thickness of the sea ice, growing from the bottom downwards.
+Sea ice is the ice formed by [:freezing](#freezing) seawater. It floats on top of seawater as [:ice is less dense than water](#icedensity). At low enough temperatures, sea ice will start freezing into [:small ice crystals](https://en.wikipedia.org/wiki/Grease_ice), which under rough conditions may [:unevenly clump together]((https://en.wikipedia.org/wiki/Pancake_ice)), to eventually form a solid, connected layer. Further freezing increases the thickness of the sea ice layer, growing from the bottom downwards.
 
 Sea ice is typically classified between first year ice, which has formed within the current season, and old ice, which has formed in a previous winter season and has survived at least one summer season. This classification is important because old ice starts the winter season already formed and has a head start in growth, so can be much thicker than first year ice. The thickness is then directly related to sea ice's [:flexural strength](https://en.wikipedia.org/wiki/Flexural_strength), load bearing capacity, and impact on offshore structures.
 
@@ -86,5 +86,4 @@ A phase diagram of a substance is a plot of pressure versus temperature with reg
 A phase boundary of a substance is the limit of temperature and pressure where a [:phase transition](#phasetransition) will start occuring. A triple point is a unique phase boundary where three [:states](#matterstate) can coexist simultaneously.
 
 ## :x ice density
-Unusually for a substance, ice (solid) is less dense than water (liquid). This is due to the [:close arrangement](https://en.wikipedia.org/wiki/Hydrogen_bond) of free-flowing liquid water molecules compared to the open, [:packed arrangement of water molecules](https://en.wikipedia.org/wiki/Ice_Ih) in a solid [:lattice](https://en.wikipedia.org/wiki/Crystal_structure). This means that the ice-water [:phase boundary](#phaseboundary) has a negative slope, meaning at a fixed temperature, you can melt ice by increasing its pressure. [:Try](https://en.wikipedia.org/wiki/Properties_of_water#Density_of_water_and_ice)
-
+Unusually for a substance, ice (solid) is less dense than water (liquid). This is due to the [:close arrangement](https://en.wikipedia.org/wiki/Hydrogen_bond) of free-flowing liquid water molecules compared to the open, [:packed arrangement of water molecules](https://en.wikipedia.org/wiki/Ice_Ih) in a solid [:lattice](https://en.wikipedia.org/wiki/Crystal_structure). This means that the ice-water [:phase boundary](#phaseboundary) has a negative slope, meaning at a fixed temperature, you can melt ice by increasing its pressure.
