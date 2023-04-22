@@ -35,12 +35,12 @@ The combined set of processes that decrease the mass of a glacier. This includes
 ## :x mass balance
 The mass balance of a glacier is a calculation that computes the net change in mass of a glacier using net [:accumulation](#accumulation) and net [:ablation](#ablation).
 
-A positive mass balance means the [:accumulation](#accumulation) over winter is larger than the [:ablation](#ablation) over summer. This is required for an ice mass to naturally form and persist between years.
+A positive mass balance means the accumulation over winter is larger than the ablation over summer. This is required for an ice mass to naturally form and persist between years.
 
 ## :x glacier motion
 As an ice mass grows in size, the [:force of gravity](#gravity) on it also increases which can lead to movement in two distinct ways:
-1. [:Basal](#glacierbed) sliding down a slope can occur when [:gravity](#gravity) is large enough to overcome underlying friction, which can also be affected by [:lubrication by melted ice](#subglacial)
-2. Internal deformation can occur when [:gravity](#gravity) creates large enough internal forces allowing the glacier to behave like a viscous fluid, since ice is a [:viscoelastic](https://en.wikipedia.org/wiki/Viscoelasticity) material
+1. [:Basal](#glacierbed) sliding down a slope can occur when gravity is large enough to overcome underlying friction, which can also be affected by [:lubrication by melted ice](#subglacial)
+2. Internal deformation can occur when gravity creates large enough internal forces allowing the glacier to behave like a viscous fluid, since ice is a [:viscoelastic](https://en.wikipedia.org/wiki/Viscoelasticity) material
 
 ## :x glacier bed
 The base or bed of a glacier is the bottom of the ice, where it [:interacts with the ground beneath](https://en.wikipedia.org/wiki/U-shaped_valley).
@@ -80,7 +80,7 @@ A phase transition is the physical change of matter between [:states](#mattersta
 The basic states of matter are solid, liquid, gas, and plasma. For a specific substance, each state corresponds to an independent range of temperature and pressure, which is commonly portrayed via a [:phase diagram](#phasediagram).
 
 ## :x phase diagram
-A phase diagram of a substance is a plot of pressure versus temperature with regions that correspond to [:states](#matterstate) the substance can be in. The regions show all the combinations of temperature and pressure for the substance to remain in the corresponding [:state](#matterstate). The edges of the regions correspond to [:phase boundaries](#phaseboundary).
+A phase diagram of a substance is a plot of pressure versus temperature with regions that correspond to [:states](#matterstate) the substance can be in. The regions show all the combinations of temperature and pressure for the substance to remain in the corresponding state. The edges of the regions correspond to [:phase boundaries](#phaseboundary).
 
 ## :x phase boundary
 A phase boundary of a substance is the limit of temperature and pressure where a [:phase transition](#phasetransition) will start occuring. A triple point is a unique phase boundary where three [:states](#matterstate) can coexist simultaneously.
