@@ -74,10 +74,10 @@ Sea ice is the ice formed by [:freezing seawater](#formation). It floats on top 
 At low enough temperatures, sea ice will start [:freezing](#freezing) into [:small ice crystals](https://en.wikipedia.org/wiki/Grease_ice), which under rough conditions may [:unevenly clump together]((https://en.wikipedia.org/wiki/Pancake_ice)), and eventually [:piece together](https://en.wikipedia.org/wiki/Pressure_ridge_(ice)) to form a solid, connected layer. Further freezing increases the thickness of the sea ice layer, growing from the bottom downwards.
 
 ## :x freezing
-Freezing is a [:phase transition](#phasetransition) when a liquid becomes solid. The opposite is [:melting](#melting).
+Freezing is a [:phase transition](#phasetransition) when a [:liquid](#matterstate) becomes solid. The opposite is [:melting](#melting).
 
 ## :x melting
-Melting is a [:phase transition](#phasetransition) when a solid becomes liquid The opposite is [:freezing](#freezing).
+Melting is a [:phase transition](#phasetransition) when a [:solid](#matterstate) becomes liquid The opposite is [:freezing](#freezing).
 
 ## :x phase transition
 A phase transition is the physical change of matter between [:states](#matterstate). A typical phase transition occurs when a substance reaches a temperature and pressure that corresponds to a [:phase boundary](#phaseboundary). Any additional energy change in the substance will go into a [:latent heat](https://en.wikipedia.org/wiki/Latent_heat) instead of changing temperature or pressure, until the phase transition is complete.
