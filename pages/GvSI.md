@@ -24,7 +24,7 @@ A large mass of ice formed under two conditions:
 The first condition is one of climate and weather where the ice mass is located. The second condition is about the size of the ice mass.
 
 ![Nàłùdäy (Lowell Glacier), 2021](/psychic-waffle/images/Nàłùdäy.jpg)
-[Nàłùdäy (Lowell Glacier), 2021](/psychic-waffle/images/Nàłùdäy.jpg)
+Nàłùdäy (Lowell Glacier), 2021
 
 ## :x accumulation
 The combined set of processes that increase the mass of a glacier. This is typically and mainly from snowfall, followed by the slow process of snow being compressed into ice.
@@ -86,5 +86,5 @@ A phase diagram of a substance is a plot of pressure versus temperature with reg
 A phase boundary of a substance is the limit of temperature and pressure where a [:phase transition](#phasetransition) will start occuring. A triple point is a unique phase boundary where three [:states](#matterstate) can coexist simultaneously.
 
 ## :x ice density
-Unusually for a substance, ice (solid) is less dense than water (liquid). This is due to the [:close arrangement](https://en.wikipedia.org/wiki/Hydrogen_bond) of free-flowing liquid water molecules compared to the open, [:packed arrangement of water molecules](https://en.wikipedia.org/wiki/Ice_Ih) in a solid [:lattice](https://en.wikipedia.org/wiki/Crystal_structure). This means that the ice-water [:phase boundary](#phaseboundary) has a negative slope, meaning at a fixed temperature, you can melt ice by increasing its pressure.
+Unusually for a substance, ice (solid) is less dense than water (liquid). This is due to the [:close arrangement](https://en.wikipedia.org/wiki/Hydrogen_bond) of free-flowing liquid water molecules compared to the open, [:packed arrangement of water molecules](https://en.wikipedia.org/wiki/Ice_Ih) in a solid [:lattice](https://en.wikipedia.org/wiki/Crystal_structure). This means that the ice-water [:phase boundary](#phaseboundary) has a negative slope, meaning at a fixed temperature, you can melt ice by increasing its pressure. [:Try](https://en.wikipedia.org/wiki/Properties_of_water#Density_of_water_and_ice)
 
