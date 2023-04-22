@@ -63,9 +63,14 @@ Gravity is one of the [:four fundamental forces](https://en.wikipedia.org/wiki/F
 
 
 ## :x SI
-Sea ice is the ice formed by [:freezing](#freezing) seawater. It floats on top of seawater as [:ice is less dense than water](#icedensity). At low enough temperatures, sea ice will start freezing into [:small ice crystals](https://en.wikipedia.org/wiki/Grease_ice), which under rough conditions may [:unevenly clump together]((https://en.wikipedia.org/wiki/Pancake_ice)), to eventually form a solid, connected layer. Further freezing increases the thickness of the sea ice layer, growing from the bottom downwards.
+Sea ice is the ice formed by [:freezing](#freezing) seawater. It floats on top of seawater as [:ice is less dense than water](#icedensity). At low enough temperatures, sea ice will start freezing into [:small ice crystals](https://en.wikipedia.org/wiki/Grease_ice), which under rough conditions may [:unevenly clump together]((https://en.wikipedia.org/wiki/Pancake_ice)), and eventually [:piece together](https://en.wikipedia.org/wiki/Pressure_ridge_(ice)) to form a solid, connected layer. Further freezing increases the thickness of the sea ice layer, growing from the bottom downwards.
 
 Sea ice is typically classified between first year ice, which has formed within the current season, and old ice, which has formed in a previous winter season and has survived at least one summer season. This classification is important because old ice starts the winter season already formed and has a head start in growth, so can be much thicker than first year ice. The thickness is then directly related to sea ice's [:flexural strength](https://en.wikipedia.org/wiki/Flexural_strength), load bearing capacity, and impact on offshore structures.
+
+![Sea Ice near Abashiri, Japan](https://upload.wikimedia.org/wikipedia/commons/5/55/Ryuhyoh_03.jpg)
+[Sea Ice near Abashiri, Japan](https://commons.wikimedia.org/wiki/File:Ryuhyoh_03.jpg) (This file is licensed under the Creative Commons [Attribution-Share Alike 3.0 Unported](https://creativecommons.org/licenses/by-sa/3.0/deed.en) license.)
+
+[:Icebreakers in Action](https://youtu.be/DfTztXfe0pY)
 
 ## :x freezing
 Freezing is a [:phase transition](#phasetransition) when a liquid becomes solid. The opposite is [:melting](#melting).
