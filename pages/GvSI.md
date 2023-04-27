@@ -66,7 +66,7 @@ Gravity is one of the [:four fundamental forces](https://en.wikipedia.org/wiki/F
 Sea ice is the ice formed by [:freezing seawater](#formation). It floats on top of seawater as [:ice is less dense than water](#icedensity). It is typically [:classified by age](#seaiceage), and whether it is [:"fastened" (attached) to land](https://en.wikipedia.org/wiki/Fast_ice), or [:not](https://en.wikipedia.org/wiki/Drift_ice). Sea ice is found in the waters of the [:polar regions](https://en.wikipedia.org/wiki/Polar_regions_of_Earth).
 
 ![Sea Ice near Abashiri, Japan](https://upload.wikimedia.org/wikipedia/commons/5/55/Ryuhyoh_03.jpg)
-[Sea Ice near Abashiri, Japan](https://commons.wikimedia.org/wiki/File:Ryuhyoh_03.jpg) (This file is licensed under the Creative Commons [Attribution-Share Alike 3.0 Unported](https://creativecommons.org/licenses/by-sa/3.0/deed.en) license)
+Sea Ice near Abashiri, Japan ([NipponiaNippon](https://commons.wikimedia.org/wiki/File:Ryuhyoh_03.jpg), [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/), via Wikimedia Commons)
 
 [:YouTube Video: Icebreakers in Action](https://youtu.be/DfTztXfe0pY)
 
