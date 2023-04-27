@@ -21,7 +21,7 @@ A large mass of ice formed under two conditions:
 1. Ice mass has a positive [:mass balance](#massbalance)
 2. Ice mass [:moves](#glaciermotion) under its own weight
 
-The first condition is one of climate and weather where the ice mass is located. The second condition is about the size of the ice mass.
+The first condition is one of climate and weather where the ice mass is located. The second condition is about the size of the ice mass. Glaciers are found in the [:polar regions](https://en.wikipedia.org/wiki/Polar_regions_of_Earth) and/or [:high mountain regions](https://en.wikipedia.org/wiki/Mountain_range).
 
 ![Nàłùdäy (Lowell Glacier), 2021](/psychic-waffle/images/Nàłùdäy.jpg)
 Nàłùdäy (Lowell Glacier), 2021
@@ -63,12 +63,19 @@ Gravity is one of the [:four fundamental forces](https://en.wikipedia.org/wiki/F
 
 
 ## :x SI
-Sea ice is the ice formed by [:freezing seawater](#formation). It floats on top of seawater as [:ice is less dense than water](#icedensity). It is typically classified between first year ice, which has formed within the current season, and old ice, which has formed in a previous winter season and has survived at least one summer season. This classification is important because old ice starts the winter season already formed and has a head start in growth, so can be much thicker than first year ice. The thickness is then directly related to sea ice's [:flexural strength](https://en.wikipedia.org/wiki/Flexural_strength), load bearing capacity, and impact on offshore structures.
+Sea ice is the ice formed by [:freezing seawater](#formation). It floats on top of seawater as [:ice is less dense than water](#icedensity). It is typically [:classified by age](#seaiceage), and whether it is [:"fastened" (attached) to land](https://en.wikipedia.org/wiki/Fast_ice), or [:not](https://en.wikipedia.org/wiki/Drift_ice). Sea ice is found in the waters of the [:polar regions](https://en.wikipedia.org/wiki/Polar_regions_of_Earth).
 
 ![Sea Ice near Abashiri, Japan](https://upload.wikimedia.org/wikipedia/commons/5/55/Ryuhyoh_03.jpg)
 [Sea Ice near Abashiri, Japan](https://commons.wikimedia.org/wiki/File:Ryuhyoh_03.jpg) (This file is licensed under the Creative Commons [Attribution-Share Alike 3.0 Unported](https://creativecommons.org/licenses/by-sa/3.0/deed.en) license)
 
 [:YouTube Video: Icebreakers in Action](https://youtu.be/DfTztXfe0pY)
+
+## :x sea ice age
+There are two main classifications of sea ice:
+1. First year ice, which has formed within the current season
+2. Old ice, which has formed in a previous winter season and has survived at least one summer season
+
+This classification is important because old ice starts the winter season already formed and has a head start in growth, so can be much thicker than first year ice. The thickness is then directly related to sea ice's [:flexural strength](https://en.wikipedia.org/wiki/Flexural_strength), load bearing capacity, and impact on offshore structures.
 
 ## :x formation
 At low enough temperatures, sea ice will start [:freezing](#freezing) into [:small ice crystals](https://en.wikipedia.org/wiki/Grease_ice), which under rough conditions may [:unevenly clump together]((https://en.wikipedia.org/wiki/Pancake_ice)), and eventually [:piece together](https://en.wikipedia.org/wiki/Pressure_ridge_(ice)) to form a solid, connected layer. Further freezing increases the thickness of the sea ice layer, growing from the bottom downwards.
