@@ -24,7 +24,7 @@ A large mass of ice formed under two conditions:
 The first condition is one of climate and weather where the ice mass is located. The second condition is about the size of the ice mass. Glaciers are found in the [:polar regions](https://en.wikipedia.org/wiki/Polar_regions_of_Earth) and/or [:high mountain regions](https://en.wikipedia.org/wiki/Mountain_range).
 
 ![Nàłùdäy (Lowell Glacier), 2021](/psychic-waffle/images/Nàłùdäy.jpg)
-Nàłùdäy (Lowell Glacier), 2021
+Nàłùdäy (Lowell Glacier) in the Saint Elias Mountains, Canada (2021)
 
 ## :x accumulation
 The combined set of processes that increases the mass of a glacier. This is typically mainly from snowfall, followed by the slow process of [:snow being compressed into ice](https://en.wikipedia.org/wiki/Firn).
